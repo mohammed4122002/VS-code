@@ -2,29 +2,29 @@
 
 An application that simulates the **VS Code** environment using **React** and **TypeScript**, with responsive design powered by **Tailwind CSS**, and state management using **Redux Toolkit**.
 
-## Technologies Used
+## 🚀 Technologies Used
 
-- **React**: A library for building user interfaces.
-- **TypeScript**: A programming language that enhances safety and helps write more organized code.
-- **Tailwind CSS**: A framework for flexible and responsive UI design.
-- **Redux Toolkit**: A powerful library for state management in React applications.
-- **Vite**: A fast build tool for web application development.
+- ![React](./public/icons/react.svg) **React**: A library for building user interfaces.
+- ![TypeScript](./public/icons/typescript.svg) **TypeScript**: A programming language that enhances safety and helps write more organized code.
+- ![Tailwind CSS](./public/icons/tailwindcss.svg) **Tailwind CSS**: A framework for flexible and responsive UI design.
+- ![Redux Toolkit](./public/icons/redux-action.svg) **Redux Toolkit**: A powerful library for state management in React applications.
+- ![Vite](./public/icons/vitest.svg) **Vite**: A fast build tool for web application development.
 
-## Features
+## ✨ Features
 
 - A user interface similar to **VS Code**.
 - State management using **Redux Toolkit**.
 - Responsive and fast design with **Tailwind CSS**.
 - **TypeScript** support for better code quality.
 
-## Project Screenshots
+## 📸 Project Screenshots
 
 ### User Interface:
-![Application Interface](./public/images/screenshot1.png)
+<img src="./public/images/screenshot1.png" alt="Application Interface" width="600" />
 
-![Application Interface](./public/images/screenshot2.png)
+<img src="./public/images/screenshot2.png" alt="Application Interface" width="600" />
 
-## How to Run
+## 🛠️ How to Run
 
 1. Install dependencies:
 
