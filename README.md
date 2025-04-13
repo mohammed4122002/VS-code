@@ -1,27 +1,48 @@
-# React + TypeScript + Vite
+# VS Code Clone - React + TypeScript + Tailwind + Redux
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+تطبيق يحاكي بيئة محرر الأكواد **VS Code** باستخدام **React** و **TypeScript** مع تصميم متجاوب باستخدام **Tailwind CSS**، بالإضافة إلى إدارة الحالة باستخدام **Redux Toolkit**.
 
-Currently, two official plugins are available:
+## التقنيات المستخدمة
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: مكتبة لبناء واجهات المستخدم.
+- **TypeScript**: لغة برمجة تعزز الأمان وتساعد على كتابة كود أكثر تنظيماً.
+- **Tailwind CSS**: إطار عمل لتصميم الواجهات بشكل مرن ومتجاوب.
+- **Redux Toolkit**: مكتبة قوية لإدارة الحالة في تطبيقات React.
+- **Vite**: أداة بناء سريعة لتطوير تطبيقات الويب.
 
-## Expanding the ESLint configuration
+## المميزات
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- تصميم واجهة مشابهة لـ **VS Code**.
+- إدارة الحالة باستخدام **Redux Toolkit**.
+- تصميم متجاوب وسريع باستخدام **Tailwind CSS**.
+- دعم **TypeScript** لتحسين جودة الكود.
 
-- Configure the top-level `parserOptions` property like this:
+## لقطات من المشروع
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+### واجهة المستخدم:
+![واجهة التطبيق](./public/images/screenshot1.png)
+
+### جزء من الكود:
+![كود HTML](./public/images/screenshot2.png)
+
+## طريقة التشغيل
+
+1. قم بتثبيت التبعيات:
+
+```bash
+npm install
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+2. قم بتشغيل التطبيق في وضع التطوير:
+
+```bash
+npm run dev
+```
+
+3. افتح المتصفح على الرابط التالي:
+
+```
+http://localhost:5173
+```
+
+4. استمتع بتجربة التطبيق!
