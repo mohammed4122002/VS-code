@@ -1,48 +1,47 @@
 # VS Code Clone - React + TypeScript + Tailwind + Redux
 
-تطبيق يحاكي بيئة محرر الأكواد **VS Code** باستخدام **React** و **TypeScript** مع تصميم متجاوب باستخدام **Tailwind CSS**، بالإضافة إلى إدارة الحالة باستخدام **Redux Toolkit**.
+An application that simulates the **VS Code** environment using **React** and **TypeScript**, with responsive design powered by **Tailwind CSS**, and state management using **Redux Toolkit**.
 
-## التقنيات المستخدمة
+## Technologies Used
 
-- **React**: مكتبة لبناء واجهات المستخدم.
-- **TypeScript**: لغة برمجة تعزز الأمان وتساعد على كتابة كود أكثر تنظيماً.
-- **Tailwind CSS**: إطار عمل لتصميم الواجهات بشكل مرن ومتجاوب.
-- **Redux Toolkit**: مكتبة قوية لإدارة الحالة في تطبيقات React.
-- **Vite**: أداة بناء سريعة لتطوير تطبيقات الويب.
+- **React**: A library for building user interfaces.
+- **TypeScript**: A programming language that enhances safety and helps write more organized code.
+- **Tailwind CSS**: A framework for flexible and responsive UI design.
+- **Redux Toolkit**: A powerful library for state management in React applications.
+- **Vite**: A fast build tool for web application development.
 
-## المميزات
+## Features
 
-- تصميم واجهة مشابهة لـ **VS Code**.
-- إدارة الحالة باستخدام **Redux Toolkit**.
-- تصميم متجاوب وسريع باستخدام **Tailwind CSS**.
-- دعم **TypeScript** لتحسين جودة الكود.
+- A user interface similar to **VS Code**.
+- State management using **Redux Toolkit**.
+- Responsive and fast design with **Tailwind CSS**.
+- **TypeScript** support for better code quality.
 
-## لقطات من المشروع
+## Project Screenshots
 
-### واجهة المستخدم:
-![واجهة التطبيق](./public/images/screenshot1.png)
+### User Interface:
+![Application Interface](./public/images/screenshot1.png)
 
-### جزء من الكود:
-![كود HTML](./public/images/screenshot2.png)
+![Application Interface](./public/images/screenshot2.png)
 
-## طريقة التشغيل
+## How to Run
 
-1. قم بتثبيت التبعيات:
+1. Install dependencies:
 
 ```bash
 npm install
 ```
 
-2. قم بتشغيل التطبيق في وضع التطوير:
+2. Run the application in development mode:
 
 ```bash
 npm run dev
 ```
 
-3. افتح المتصفح على الرابط التالي:
+3. Open your browser at the following URL:
 
 ```
 http://localhost:5173
 ```
 
-4. استمتع بتجربة التطبيق!
+4. Enjoy the application!
