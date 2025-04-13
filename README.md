@@ -44,9 +44,9 @@ An application that simulates the **VS Code** environment using **React** and **
 
 ### User Interface:
 
-<img src="https://github.com/mohammed4122002/VS-code/blob/main/public/images/screenshot1.png.png?raw=true" alt="Application Interface" width="600" />
+<img src="https://github.com/mohammed4122002/VS-code/blob/main/public/images/screenshot1.png?raw=true" alt="Application Interface" width="600" />
 <br/><br/>
-<img src="https://github.com/mohammed4122002/VS-code/blob/main/public/images/screenshot2.png.png?raw=true" alt="Application Interface" width="600" />
+<img src="https://github.com/mohammed4122002/VS-code/blob/main/public/images/screenshot2.png?raw=true" alt="Application Interface" width="600" />
 
 ---
 
